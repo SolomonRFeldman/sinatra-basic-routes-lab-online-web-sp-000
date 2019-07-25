@@ -16,5 +16,6 @@ class App < Sinatra::Base
   
   get 'favorite-song' do
     'MY favorite song is Slim Shady'
+  end
   
 end
